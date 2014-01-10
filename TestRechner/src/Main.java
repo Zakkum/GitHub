@@ -1,4 +1,3 @@
-
 public class Main {
 
 	
@@ -14,6 +13,7 @@ public class Main {
 		balance = balance - return10Ct*10;
 		System.out.println(balance);
 		
+		http://www.youtube.com/watch?v=r5C6yXNaSGo
 
 	}
 
